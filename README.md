@@ -14,55 +14,55 @@
 ## Screenshots
 
 ### Pagina Principal
-<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/7c07e0c6-7d72-44e4-a09a-2289652ae962" />
-<img width="1440" height="899" alt="image" src="https://github.com/user-attachments/assets/8ae1db94-d6e2-45a9-8360-c4689e98b82c" />
-<img width="1439" height="995" alt="image" src="https://github.com/user-attachments/assets/c489a5d7-202c-4026-8c09-998e652381fd" />
-<img width="1445" height="1147" alt="image" src="https://github.com/user-attachments/assets/671c6cf8-964d-4591-b7fa-ea77f540e8da" />
-<img width="1438" height="577" alt="image" src="https://github.com/user-attachments/assets/d489ba69-7522-4ede-96e5-68c5fa5530c3" />
-<img width="1442" height="714" alt="image" src="https://github.com/user-attachments/assets/4ad5f3b0-cc51-4711-84e2-80b6a94a9bf5" />
+<img width="1440" alt="Pagina principal" src="img/image_1.png" />
+<img width="1440" alt="Pagina principal" src="img/image_2.png" />
+<img width="1440" alt="Pagina principal" src="img/image_3.png" />
+<img width="1440" alt="Pagina principal" src="img/image_4.png" />
+<img width="1440" alt="Pagina principal" src="img/image_5.png" />
+<img width="1440" alt="Pagina principal" src="img/image_6.png" />
 
 ### Rutinas
 <table>
   <tr>
-    <td><img width="400" alt="Vista Rutina" src="https://github.com/user-attachments/assets/2a69be85-c374-4435-aea4-723d6161e3aa"/></td>
-    <td><img width="400" alt="Modal Rutina" src="https://github.com/user-attachments/assets/72861d7f-2bf1-4bd7-9052-6139aaedcbb6" /></td>
-    <td><img width="400" alt="Confirmacion Rutina" src="https://github.com/user-attachments/assets/b75f444c-a3ce-49af-86fb-ba035e16d00d" /></td>
+    <td><img width="400" alt="Vista Rutina" src="img/express_1.png"/></td>
+    <td><img width="400" alt="Modal Rutina" src="img/express_2.png" /></td>
+    <td><img width="400" alt="Confirmacion Rutina" src="img/express_3.png" /></td>
   </tr>
 </table>
 
 ### Producto
 <table>
   <tr>
-    <td><img width="400" alt="Ver Producto" src="https://github.com/user-attachments/assets/fdece27c-d9a7-456f-984a-6bf34ad569a1"/></td>
-    <td><img width="400" alt="Detalle Producto" src="https://github.com/user-attachments/assets/a26bc798-ee1e-4ab9-95e7-fa914b1fee69" /></td>
-    <td><img width="400" alt="Modal de confirmacion agregacion carrito" src="https://github.com/user-attachments/assets/ce18ac58-ff5a-41bb-b9da-45aed9258016" /></td>
+    <td><img width="400" alt="Ver Producto" src="img/producto_1.png"/></td>
+    <td><img width="400" alt="Detalle Producto" src="img/producto_2.png" /></td>
+    <td><img width="400" alt="Modal de confirmacion agregacion carrito" src="img/producto_3.png" /></td>
   </tr>
 </table>
 
 ### Panel Administrativo
 <table>
   <tr>
-    <td><img width="400" alt="Productos" src="https://github.com/user-attachments/assets/544f3b1e-a997-4298-bc67-e9921de312b3" /></td>
-    <td><img width="400" alt="Pedidos" src="https://github.com/user-attachments/assets/1233dd82-f588-4771-b076-1dbf459dcc7b" /></td>
-    <td><img width="400" alt="Configuracion" src="https://github.com/user-attachments/assets/bf19183c-1381-478f-9ceb-083e6ea81389" /></td>
+    <td><img width="400" alt="Productos" src="img/admin_1.png" /></td>
+    <td><img width="400" alt="Pedidos" src="img/admin_2.png" /></td>
+    <td><img width="400" alt="Configuracion" src="img/admin_3.png" /></td>
   </tr>
 </table>
 
 ### Emails con estados de pedido
 <table>
   <tr>
-    <td><img width="400" alt="Orden Creada" src="https://github.com/user-attachments/assets/6cc2e4f0-0c50-4573-bf91-3cfb032e349b" /></td>
-    <td><img width="400" alt="Pago Confirmado" src="https://github.com/user-attachments/assets/b3d106a9-93b0-4d65-ad9f-7b27f6a90130" /></td>
-    <td><img width="400" alt="Listo para Retirar" src="https://github.com/user-attachments/assets/cf33d1dc-39a2-4143-b4b7-13ef0c199010" /></td>
-    <td><img width="400" alt="Orden Completada" src="https://github.com/user-attachments/assets/270d1acb-0d27-4e90-8ce1-6dc32c4bce2b" /></td>
+    <td><img width="400" alt="Orden Creada" src="img/email_1.png" /></td>
+    <td><img width="400" alt="Pago Confirmado" src="img/email_2.png" /></td>
+    <td><img width="400" alt="Listo para Retirar" src="img/email_3.png" /></td>
+    <td><img width="400" alt="Orden Completada" src="img/email_4.png" /></td>
   </tr>
 </table>
 
 ### Emails de autenticación
 <table>
   <tr>
-    <td><img width="400" alt="Verificar Email" src="https://github.com/user-attachments/assets/11f5d5ee-8ebe-470d-96b7-f369c80446ba" /></td>
-    <td><img width="400" alt="Resetear Password" src="https://github.com/user-attachments/assets/de6278d4-4435-4a48-a9f0-49953ccf0417" /></td>
+    <td><img width="400" alt="Verificar Email" src="img/email_5.png" /></td>
+    <td><img width="400" alt="Resetear Password" src="img/email_6.png" /></td>
   </tr>
 </table>
 
