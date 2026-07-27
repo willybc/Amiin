@@ -1,11 +1,11 @@
 # AMIIN by Idraet Group - E-commerce Platform
 
-[![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Livewire](https://img.shields.io/badge/Livewire-3.0-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![MercadoPago](https://img.shields.io/badge/MercadoPago-Integrated-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://mercadopago.com.ar)
+[![Laravel 11](img/badges/laravel.svg)](https://laravel.com)
+[![Livewire 3.0](img/badges/livewire.svg)](https://livewire.laravel.com)
+[![TailwindCSS 3.4](img/badges/tailwindcss.svg)](https://tailwindcss.com)
+[![MySQL 8.0](img/badges/mysql.svg)](https://mysql.com)
+[![PHP 8.2+](img/badges/php.svg)](https://php.net)
+[![MercadoPago Integrated](img/badges/mercadopago.svg)](https://mercadopago.com.ar)
 
 **Plataforma e-commerce personalizada para la marca AMIIN de Idraet Group.** Diseno fiel a la identidad de marca, panel administrativo intuitivo, integracion con MercadoPago y ShipNow, multiples metodos de pago y gestion de tiendas fisicas con retiro en sucursal.
 
